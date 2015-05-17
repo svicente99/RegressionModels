@@ -2,7 +2,7 @@
 ## Coursera - Data Science Specialization
 ## Regresion Models
 ##
-## Quizz 1 - answers code
+## Quiz 1 - answers code
 ## 
 ## date...: May, 10th 2015
 ## author.: Sergio Vicente
