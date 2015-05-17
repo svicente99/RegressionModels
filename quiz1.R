@@ -1,6 +1,6 @@
 ## ----------------------------------------
 ## Coursera - Data Science Specialization
-## Regresion Models
+## Regression Models
 ##
 ## Quiz 1 - answers code
 ## 
